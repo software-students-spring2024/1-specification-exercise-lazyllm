@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-1. Angel Wu (Net Id: cw3561) 	
-2. Weilin Cheng (Net Id: wc2182)	
-3. Ruichen Wang (Net Id: rw2671)	
-4. Haoyang Li (Net Id: hl3951)	
+1. Angel Wu (https://github.com/angelWu2002) 	
+2. Weilin Cheng (https://github.com/M1stery232)	
+3. Ruichen Wang (https://github.com/rcwang937)	
+4. Haoyang Li (https://github.com/LeoLi727)
 	
 ## Stakeholders
 
