@@ -4,11 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Angel Wu (Net Id: cw3561)
-Weilin Cheng (Net Id: wc2182)
-Ruichen Wang (Net Id: rw2671)
-Haoyang Li (Net Id: hl3951)
-
+1. Angel Wu (Net Id: cw3561) 	
+2. Weilin Cheng (Net Id: wc2182)	
+3. Ruichen Wang (Net Id: rw2671)	
+4. Haoyang Li (Net Id: hl3951)	
+	
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
