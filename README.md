@@ -38,9 +38,18 @@ Our app assists the way people furnish their homes by providing a user-friendly 
 
 - As a property stager, I want to source attractive, affordable second-hand furniture to enhance the appeal of homes on the market, so that the homes are presented at their best while staying within budget.
 
+
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+<p style="color: gray; font-size: small;">Description of User Story 1: As a house renter looking to settle temporarily, I want to buy second-hand furnitures, so that I can avoid costly investments in new, permanent furnishings.</p>
+
+![User Story 1](image/Frame%201.png)
+
+<p style="color: gray; font-size: small;">Description of User Story 2: As an international college student, I want to easily sell my purchased furnitures, so that I can quickly and effortlessly recoup some of my investment before heading back home.</p>
+
+![User Story 2](image/Frame%202.png)
+
+
 
 ## Clickable Prototype
 
