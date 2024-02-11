@@ -78,4 +78,4 @@ Our app assists the way people furnish their homes by providing a user-friendly 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/bilV8RH4EuUAnBmcbn6sM2/Prototype?type=design&node-id=1-3&t=iNs3y6J34RGVe3yq-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&mode=design
