@@ -11,21 +11,29 @@ A little exercise to get started with the specification phase of the software de
 	
 ## Stakeholders
 
-Name: Tommy Age: 22 Background: NYU Student Senior
-Q: What are your main goals when dealing with furniture as you prepare for graduation?
+**Name: Tommy Age: 22 Background: NYU Student Senior** 
+
+Q: What are your main goals when dealing with furniture as you prepare for graduation? 
+
 A: "My main goal is to be able to sell my current furniture easily and to effectively communicate with buyers when I need to. It's all about simplifying the process and ensuring I can manage these transactions smoothly."
+
 Q: Given that our app focuses on providing a communication platform rather than finding local furniture, how important is this feature to you?
+
 A: "The communication aspect is crucial, especially if it's secure and streamlined. It can be challenging to coordinate sales and discuss details safely, so a dedicated platform that facilitates this would be incredibly valuable."
+
 Q: What are some of the problems or frustrations you've faced with existing methods of selling or buying furniture?
+
 A: "Safety and communication have been major issues. It's difficult to gauge the reliability of buyers or sellers, and coordinating pickups or deliveries can often be a hassle. Additionally, negotiating prices and details over less secure channels can be concerning."
+
 Q: How could our app specifically address these issues for you?
+
 A: "By providing a secure and user-friendly platform for communication, you'd be addressing a significant gap. If I can easily discuss details, negotiate prices, and arrange transactions all within the app, it would make the process much more efficient and safer."
 
-Tommy's Goals/Needs:
+**Tommy's Goals/Needs:**
 - Ease of Use: Wants a straightforward, simple process for listing his furniture for sale and communicating with potential buyers.
 - Secure Communication: Seeks a secure platform to discuss details and negotiate with buyers without compromising personal contact information.
 
-Tommy's Problems/Frustrations:
+**Tommy's Problems/Frustrations:**
 - Safety Concerns: Worried about the safety of transactions, preferring a platform that ensures user verification or provides a rating system for reliability.
 - Communication Barriers: Frustrated with platforms that don’t offer a seamless way to communicate directly and securely within the app.
 - Targeting Local Market: Has trouble reaching local buyers on general platforms, making it hard to sell large items like furniture.
